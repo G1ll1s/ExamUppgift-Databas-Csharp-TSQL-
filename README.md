@@ -1,3 +1,1 @@
-Examinations Uppgift för Databaser med användning av C#, TSQL och ssms
-
-Inlämning var 1/12-2023
+Ett logistikprogram för effektiv hantering av pallar, inklusive funktioner för att lägga till och ta bort pallar, överblicka lagerstatus, söka efter specifika pallar samt sortera pallar efter olika storlekar.
